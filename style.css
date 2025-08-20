@@ -29,9 +29,9 @@
    
 }
 h1{
-    background-color: blueviolet;
+    font-style: italic;
 }
 
 p{
-    background-color: aqua;
+    font-style: normal;
 }
